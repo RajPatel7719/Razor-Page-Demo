@@ -1,0 +1,7 @@
+*.json
+*.props
+*.targets
+*.cs
+*.BuildWithSkipAnalyzers
+*.txt
+*.editorconfig
